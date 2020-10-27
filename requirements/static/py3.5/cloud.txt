@@ -91,7 +91,7 @@ azure==4.0.0
 certifi==2019.3.9         # via msrest, requests
 cffi==1.12.2              # via azure-datalake-store, cryptography
 chardet==3.0.4            # via requests
-cryptography==2.6.1       # via adal, azure-cosmosdb-table, azure-keyvault, azure-storage-common, requests-ntlm, smbprotocol
+cryptography==3.2       # via adal, azure-cosmosdb-table, azure-keyvault, azure-storage-common, requests-ntlm, smbprotocol
 idna==2.8                 # via requests
 isodate==0.6.0            # via msrest
 msrest==0.6.6             # via azure-applicationinsights, azure-eventgrid, azure-keyvault, azure-loganalytics, azure-mgmt-cdn, azure-mgmt-compute, azure-mgmt-containerinstance, azure-mgmt-containerregistry, azure-mgmt-containerservice, azure-mgmt-dns, azure-mgmt-eventhub, azure-mgmt-keyvault, azure-mgmt-media, azure-mgmt-network, azure-mgmt-rdbms, azure-mgmt-resource, azure-mgmt-servicebus, azure-mgmt-servicefabric, azure-mgmt-signalr, azure-servicefabric, msrestazure
